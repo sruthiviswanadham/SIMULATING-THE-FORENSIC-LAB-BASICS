@@ -4,7 +4,7 @@ To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy 
 
 # Implementation Steps :
 # Step 1: Install VirtualBox
-🔗 Download VirtualBox: click here
+ Download VirtualBox: click here
 
 # Installation Steps:
  1.Download the Windows hosts .exe file from the official VirtualBox website.
