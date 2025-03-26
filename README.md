@@ -70,7 +70,8 @@ To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy 
 
 ![Screenshot 2025-03-22 113233](https://github.com/user-attachments/assets/81c32459-1b5c-4f0e-bd32-c766ace6216f)
 
-![Screenshot 2025-03-26 092846](https://github.com/user-attachments/assets/f29b4cbf-4e3c-4e04-9ee6-67ddad89b7cf)
+![Screenshot 2025-03-26 092658](https://github.com/user-attachments/assets/c635dc11-3090-427a-a48f-1557f227c801)
+
 
 
 # Creation of Virtual Hard Disk
